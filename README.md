@@ -30,7 +30,7 @@ $ bundle exec jekyll build
 
 * Possibilité de colorer le [pseudo code](https://github.com/robin850/fac/tree/master/_plugins/pseudo_code_lexer.rb)
   *via* `pseudo` dans les *[fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/)*.
-* Possibilité de [surligner les lignes](https://github.com/robin850/fac/tree/master/_plugins/custom_converter.rb#L9-26).
+* Possibilité de [surligner les lignes](https://github.com/robin850/fac/tree/master/_plugins/custom_converter.rb#L9-L26).
 
 ## Sous Windows
 
