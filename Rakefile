@@ -29,9 +29,7 @@ task :deploy do
         end
       rescue Net::FTPPermError
         folders = net_name.split('/')
-        folders.pop
-
-        ftp.chdir(folders.shift)
+        folders.pop # Pour retirer le nom du fichier de la liste
 
         folders.each do |folder|
           begin ftp.mkdir(folder) rescue nil end
