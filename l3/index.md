@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Réseau
+section: l3
 ---
 
 <h2>Premier semestre</h2>
