@@ -41,4 +41,4 @@ navs:
 
 # Build settings
 markdown: redcarpet
-exclude: [Gemfile, Gemfile.lock, .gitignore, Rakefile]
+exclude: [Gemfile, Gemfile.lock, .gitignore, Rakefile, README.md]
