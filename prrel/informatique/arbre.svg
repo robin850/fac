@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:18px;}
+	.st5{font-size:12px;}
+</style>
+<polygon class="st0" points="366,28.5 331,93.5 577,93.5 603,28.5 "/>
+<circle class="st0" cx="455" cy="159" r="21"/>
+<path class="st0" d="M460,93.5l-5,44.5L460,93.5z"/>
+<rect x="117" y="143" class="st0" width="179" height="61"/>
+<rect x="240" y="225.5" class="st0" width="112" height="45"/>
+<rect x="370.2" y="270.5" class="st0" width="169.7" height="50.5"/>
+<circle class="st0" cx="843" cy="248" r="21"/>
+<rect x="564" y="225.5" class="st0" width="112" height="45"/>
+<line class="st1" x1="296" y1="159" x2="434" y2="159"/>
+<line class="st1" x1="311" y1="225.5" x2="439.8" y2="173.5"/>
+<line class="st1" x1="455" y1="180" x2="455" y2="269"/>
+<line class="st1" x1="476" y1="159" x2="843" y2="159"/>
+<line class="st1" x1="470.2" y1="173.5" x2="620" y2="224.5"/>
+<line class="st1" x1="843" y1="159" x2="843" y2="227"/>
+<line class="st1" x1="348.5" y1="61" x2="590" y2="61"/>
+<rect x="434" y="35" class="st2" width="153" height="35"/>
+<text transform="matrix(1 0 0 1 434 47.7798)" class="st3 st4">Mystère</text>
+<rect x="395" y="69" class="st2" width="204" height="49"/>
+<text transform="matrix(1 0 0 1 395 81.7798)" class="st3 st4">var c, d, n : Entier</text>
+<rect x="124.5" y="151" class="st2" width="171.5" height="68"/>
+<text transform="matrix(1 0 0 1 124.5 163.7798)"><tspan x="0" y="0" class="st3 st4">écrire(«Entrer un </tspan><tspan x="0" y="21.6" class="st3 st4">entier entre 1 et 25»)</tspan></text>
+<path d="M467,165"/>
+<rect x="272" y="240" class="st2" width="153" height="30"/>
+<text transform="matrix(1 0 0 1 272 252.7798)" class="st3 st4">Lire(c)</text>
+<rect x="593.5" y="240" class="st2" width="153" height="30"/>
+<text transform="matrix(1 0 0 1 593.5 252.7798)" class="st3 st4">Lire(n)</text>
+<rect x="374.2" y="275" class="st2" width="171.5" height="68"/>
+<text transform="matrix(1 0 0 1 374.25 287.7798)"><tspan x="0" y="0" class="st3 st4">écrire(«Début de la </tspan><tspan x="0" y="21.6" class="st3 st4">saisie :»)</tspan></text>
+<rect x="831" y="240" class="st2" width="28" height="18"/>
+<text transform="matrix(1 0 0 1 831 252.7803)" class="st3 st4">TQ</text>
+<rect x="445.8" y="150" class="st2" width="18.5" height="18"/>
+<text transform="matrix(1 0 0 1 445.75 162.7803)" class="st3 st4">-&gt;</text>
+<line class="st2" x1="822" y1="248" x2="721" y2="291"/>
+<line class="st2" x1="843" y1="269" x2="843" y2="353"/>
+<circle class="st0" cx="843" cy="348.3" r="21"/>
+<line class="st1" x1="843" y1="269" x2="843" y2="327.3"/>
+<polygon class="st1" points="654.8,301 671.2,285.5 735.8,285.5 745.7,301 730.5,314.5 670.8,314.5 "/>
+<rect x="674.9" y="291" class="st2" width="58.8" height="20"/>
+<text transform="matrix(1 0 0 1 674.859 303.7803)" class="st3 st4">n &gt;= 0</text>
+<line class="st2" x1="709" y1="285.5" x2="822" y2="248"/>
+<line class="st2" x1="709" y1="285.5" x2="822" y2="248"/>
+<line class="st1" x1="709" y1="285.5" x2="822" y2="248"/>
+<rect x="833.8" y="340" class="st2" width="18.5" height="18"/>
+<text transform="matrix(1 0 0 1 833.75 352.7803)" class="st3 st4">-&gt;</text>
+<rect x="616" y="334" class="st1" width="87.5" height="28.7"/>
+<rect x="628.5" y="340.3" class="st2" width="75" height="22.3"/>
+<text transform="matrix(1 0 0 1 628.5 353.1279)" class="st3 st4">d &lt;- n - c</text>
+<line class="st1" x1="703.5" y1="349" x2="822" y2="348.3"/>
+<circle class="st0" cx="686.8" cy="415" r="21"/>
+<rect x="677.8" y="408" class="st2" width="28" height="18"/>
+<text transform="matrix(1 0 0 1 677.75 420.7803)" class="st3 st4">Si</text>
+<line class="st2" x1="720.2" y1="414.1" x2="824.4" y2="358"/>
+<line class="st1" x1="707.8" y1="404.9" x2="824.4" y2="358"/>
+<polygon class="st1" points="499.8,475 516.2,459.5 580.8,459.5 590.7,475 575.5,488.5 515.8,488.5 "/>
+<rect x="519.9" y="465" class="st2" width="58.8" height="20"/>
+<text transform="matrix(1 0 0 1 519.859 477.7803)" class="st3 st4">d &lt;= 0</text>
+<rect x="727" y="460.7" class="st1" width="87.5" height="28.7"/>
+<rect x="730.5" y="467" class="st2" width="87" height="22.3"/>
+<text transform="matrix(1 0 0 1 730.5449 479.8018)" class="st3 st4">d &lt;- 26 + d</text>
+<line class="st1" x1="549.2" y1="459.5" x2="665.8" y2="415"/>
+<line class="st1" x1="705.8" y1="426" x2="774" y2="460.7"/>
+<rect x="881.5" y="334" class="st0" width="74.7" height="30"/>
+<rect x="902.5" y="342.5" class="st2" width="102" height="20"/>
+<text transform="matrix(1 0 0 1 902.4587 351.0198)" class="st3 st5">Lire(c)</text>
+<line class="st1" x1="864" y1="348.3" x2="881.5" y2="348.3"/>
+<rect x="859" y="436" class="st0" width="97.2" height="30"/>
+<rect x="872.1" y="441.5" class="st2" width="71" height="18.9"/>
+<text transform="matrix(1 0 0 1 872.1042 454.3058)" class="st3 st4">écrire(d)</text>
+<line class="st1" x1="852.2" y1="367.2" x2="907.6" y2="436"/>
+</svg>

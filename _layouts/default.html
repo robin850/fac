@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% if page.section == 'prrel' %}
+      <title>PRREL - Ressources pour le PRREL</title>
+    {% else %}
+      <title>L3 - Ressources cours licence 3</title>
+    {% endif %}
+
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/custom.css" rel="stylesheet">
+    <link href="/css/highlight.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container markdown-body">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            {% for nav in site.navs[page.section] %}
+              {% if nav.title == page.title %}
+                <li role="presentation" class="active">
+              {% else %}
+                <li role="presentation">
+              {% endif %}
+                  <a href="/{{ page.section}}/{{ nav.href }}">{{ nav.title }}</a>
+                </li>
+            {% endfor %}
+          </ul>
+        </nav>
+
+        {% if page.section == 'prrel' %}
+          <h3>PRREL</h3>
+        {% else %}
+          <h3><a href="/l3">L3</a></h3>
+        {% endif %}
+      </div>
+
+      {{ content }}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+      $('#memo a').click(function(e) {
+        e.preventDefault()
+        var id = $(this).attr('href');
+
+        $('.nav-tabs li.active').removeClass('active');
+        $(this).parent().addClass('active');
+
+        $('.tab-pane.active').removeClass('active').fadeOut(200, function() {
+          $(id).addClass('active').fadeIn(250);
+        });
+      });
+    </script>
+    </div>
+  </body>
+</html>

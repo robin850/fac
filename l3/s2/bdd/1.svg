@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 469.3 349.3" style="enable-background:new 0 0 469.3 349.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:12px;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st4{font-size:7.0338px;}
+	.st5{fill:none;}
+	.st6{font-size:9px;}
+</style>
+<rect x="19.1" y="285.5" class="st0" width="139.4" height="40.8"/>
+<rect x="308.8" y="285.5" class="st0" width="139.4" height="40.8"/>
+<text transform="matrix(1 0 0 1 357.5635 309.9297)" class="st1 st2">Allergie</text>
+<text transform="matrix(1 0 0 1 75.6763 311.2256)" class="st1 st2">Enfant</text>
+<polygon class="st3" points="337.9,149 337.9,243.9 431.3,196.5 "/>
+<text transform="matrix(1 0 0 1 340.8727 189.8436)"><tspan x="0" y="0" class="st1 st4">symptomes =  ‘eczema’</tspan><tspan x="0" y="8.4" class="st1 st4">                AND</tspan><tspan x="0" y="16.9" class="st1 st4">traitement =  ‘cortizone’</tspan></text>
+<line class="st3" x1="377" y1="224" x2="377" y2="285.5"/>
+<polygon class="st3" points="49.9,172 49.9,267 143.3,219.5 "/>
+<rect x="65.3" y="199.5" class="st5" width="36.7" height="48"/>
+<text transform="matrix(1 0 0 1 65.2701 207.9848)"><tspan x="0" y="0" class="st1 st2">classe</tspan><tspan x="0" y="14.4" class="st1 st2">   =</tspan><tspan x="0" y="28.8" class="st1 st2">  ‘CP’</tspan></text>
+<polygon class="st3" points="214,53 250.7,71 250.7,53 214,71 "/>
+<line class="st3" x1="81.2" y1="126.3" x2="81.2" y2="91.7"/>
+<line class="st3" x1="81.2" y1="91.7" x2="214" y2="62"/>
+<line class="st3" x1="377" y1="168.9" x2="377" y2="99"/>
+<line class="st3" x1="377" y1="99" x2="250.7" y2="62"/>
+<polygon class="st3" points="32.7,126.3 13.3,151.7 143.3,151.7 130,126.3 "/>
+<text transform="matrix(1 0 0 1 49.8732 142.3333)" class="st1 st2">Enfant.nom</text>
+<line class="st3" x1="81.2" y1="151.7" x2="81.2" y2="187.9"/>
+<line class="st3" x1="83.6" y1="249.8" x2="83.6" y2="285.5"/>
+<polygon class="st3" points="186.7,11 167.3,36.3 297.3,36.3 284,11 "/>
+<text transform="matrix(1 0 0 1 203.8732 27)" class="st1 st2">Enfant.nom</text>
+<line class="st3" x1="232.3" y1="36.3" x2="232.3" y2="62"/>
+<rect x="166.3" y="79" class="st5" width="151.5" height="13.3"/>
+<text transform="matrix(1 0 0 1 166.3335 85.3901)" class="st1 st6">Enfant.n_enfant = Allergie.n_enfant</text>
+</svg>

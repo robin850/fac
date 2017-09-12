@@ -1,0 +1,167 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+.header {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.tab-content .tab-pane {
+  display: none;
+}
+
+.tab-content .tab-pane:first-child {
+  display: block;
+}
+
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  color: #777;
+}
+
+.header nav {
+  float: right;
+}
+
+.header nav ul, .nav-tabs {
+  line-height: 2em;
+  list-style-type: none;
+}
+
+.header nav ul li, .nav-tabs li {
+  float: left;
+  padding:
+}
+
+.header nav ul li a, .nav-tabs li a {
+  border-radius: 4px;
+  padding: 10px 15px;
+}
+
+.header nav ul li.active a, .nav-tabs li.active a {
+  color: white;
+  background-color: #337ab7;
+  text-decoration: none;
+}
+
+.nav-tabs::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.nav-tabs {
+  margin-bottom: 15px;
+}
+
+.jumbotron {
+  background-color: #eee;
+  border-radius: 4px;
+  padding: 30px 60px;
+}
+
+.jumbotron h2 {
+  margin-top: 0;
+}
+
+code, .highlight {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  font-size: 18px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.jumbotron .lead {
+  font-size: 21px;
+  font-weight: 200;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+
+.clearer {
+  clear: both;
+}
+
+.markdown-body a.link {
+  display: block;
+  width: 220px;
+  // margin: 10px 20px 10px 0;
+  float: left;
+  text-align: center;
+  color: #222;
+}
+
+.markdown-body a.link:hover {
+  color: #337ab7;
+}
+
+.grid {
+  display: flex;
+  margin-bottom: 1em;
+}
+
+.link {
+  margin: auto;
+}
+
+.link img {
+  height: 50px;
+  width: 50px;
+  margin: auto;
+  margin-bottom: 26px;
+}
+
+.link:hover img {
+  text-decoration: none;
+}
+
+.link .icon {
+  display: block;
+  color: #222;
+  font-size: 50px;
+  line-height: 1.5em;
+  text-decoration: none!important;
+}
+
+.markdown-body a.link:hover .icon {
+  text-decoration: none!important;
+}

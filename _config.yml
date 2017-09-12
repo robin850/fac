@@ -1,0 +1,44 @@
+navs:
+  prrel:
+    - title: Physique
+      href: index.html
+    - title: Chimie
+      href: chimie.html
+    - title: Mécanique
+      href: mecanique.html
+    - title: Mathématiques
+      href: maths.html
+    - title: Archi
+      href: architecture.html
+    - title: Info
+      href: informatique.html
+  l3/s1:
+    - title: Réseau
+      href: reseau.html
+    - title: Graphes
+      href: graphes.html
+    - title: P. Fonctionnelle
+      href: fonctionnelle.html
+    - title: P. Logique
+      href: logique.html
+    - title: Complexité
+      href: complexite.html
+  l3/s2:
+    - title: BDD
+      href: bdd.html
+    - title: P. Système
+      href: systeme.html
+    - title: P. Linéaire
+      href: lineaire.html
+    - title: POO
+      href: poo.html
+    - title: G. Logiciel
+      href: logiciel.html
+    - title: Simu
+      href: simulation.html
+    - title: Anglais
+      href: anglais.html
+
+# Build settings
+markdown: redcarpet
+exclude: [Gemfile, Gemfile.lock, .gitignore, Rakefile]
