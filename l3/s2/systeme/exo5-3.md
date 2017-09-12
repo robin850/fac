@@ -12,7 +12,7 @@ Faire la conversion des adresses linéaires suivantes en adresses physiques :
 * Processus A : 12292
 * Processus B : 8212
 
-> C.f partie sur la conversion d'adresse sur [la page principale](/l3-s2/systeme.html)
+> C.f partie sur la conversion d'adresse sur [la page principale](/l3/s2/systeme.html)
 
 -------------------------------------------------------------------------------
 
