@@ -165,3 +165,9 @@ code, .highlight {
 .markdown-body a.link:hover .icon {
   text-decoration: none!important;
 }
+
+.markdown-body a:not(.link) img {
+  display: block;
+  float: left;
+  margin: 5px 10px 0 0;
+}

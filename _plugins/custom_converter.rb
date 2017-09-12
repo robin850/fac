@@ -49,6 +49,16 @@ module Jekyll
 
         %(<pre class="highlight">#{highlighted}</pre>)
       end
+
+      def link(link, title, content)
+        markup =  %(<a href="#{link}")
+        markup << %( title="#{title}") if title
+        markup << %(>)
+        markup << %(<img src="/icons/download.svg"> ) if link.start_with?("https://drive.")
+        markup << content
+        markup << "</a>"
+        markup
+      end
     end
 
     class CustomFormatter < Rouge::Formatters::HTML
