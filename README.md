@@ -55,5 +55,8 @@ La fonctionnalité de surlignage du code ne sera juste pas disponible avec Kramd
 
 Le code Ruby est sous [licence MIT](http://opensource.org/licenses/mit-license.php).
 
+Les images SVG du dossier `icons/` sont toutes sous licence MIT (credits
+[Octicons](https://octicons.github.com/), [Raphael.js](https://dmitrybaranovskiy.github.io/raphael/)).
+
 Les fichiers Markdown et les images sont sous licence
 [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
