@@ -6,14 +6,14 @@ section: prrel
 
 ## Semestre 2
 
-* [Corrigé du TD n°1](informatique/correction-td1.html)
-* [Corrigé du TD n°3](informatique/correction-td3.html)
+* [Corrigé du TD n°1](correction-td1.html)
+* [Corrigé du TD n°3](correction-td3.html)
 
 ## Semestre 1
 
 * [Sujet de DS 2014-2015](https://drive.google.com/uc?export=download&id=0B1b6pH21vC4eM3hhRjNnLTRWRWc)
-* [Correction exercice 2 DS première session](informatique/correction-exercice2.html)
-* [Correction sujet de DS 2014-2015](informatique/correction-ds.html)
+* [Correction exercice 2 DS première session](correction-exercice2.html)
+* [Correction sujet de DS 2014-2015](correction-ds.html)
 
 ## Mémo pour les langages
 

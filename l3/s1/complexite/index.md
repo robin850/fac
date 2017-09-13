@@ -27,6 +27,6 @@ Une fois le cas trouvé, on détermine la complexité:
 
 ## Documents
 
-* [Fiche de TD n°3](complexite/td3.html)
-* [Fiche de TD n°4](complexite/td4.html)
-* [Correction DS](complexite/ds.html)
+* [Fiche de TD n°3](td3.html)
+* [Fiche de TD n°4](td4.html)
+* [Correction DS](ds.html)

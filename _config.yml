@@ -1,43 +1,43 @@
 navs:
   prrel:
     - title: Physique
-      href: index.html
+      href: physique/
     - title: Chimie
-      href: chimie.html
+      href: chimie/
     - title: Mécanique
-      href: mecanique.html
+      href: mecanique/
     - title: Mathématiques
-      href: maths.html
+      href: maths/
     - title: Archi
-      href: architecture.html
+      href: architecture/
     - title: Info
-      href: informatique.html
+      href: informatique/
   l3/s1:
     - title: Réseau
-      href: reseau.html
+      href: reseau/
     - title: Graphes
-      href: graphes.html
+      href: graphes/
     - title: P. Fonctionnelle
-      href: fonctionnelle.html
+      href: fonctionnelle/
     - title: P. Logique
-      href: logique.html
+      href: logique/
     - title: Complexité
-      href: complexite.html
+      href: complexite/
   l3/s2:
     - title: BDD
-      href: bdd.html
+      href: bdd/
     - title: P. Système
-      href: systeme.html
+      href: systeme/
     - title: P. Linéaire
-      href: lineaire.html
+      href: lineaire/
     - title: POO
-      href: poo.html
+      href: poo/
     - title: G. Logiciel
-      href: logiciel.html
+      href: logiciel/
     - title: Simu
-      href: simulation.html
+      href: simulation/
     - title: Anglais
-      href: anglais.html
+      href: anglais/
 
 # Build settings
 markdown: redcarpet

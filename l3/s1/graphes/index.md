@@ -11,9 +11,9 @@ section: l3/s1
 * [Sujet d'examen 2014-2015](https://drive.google.com/uc?export=download&id=0B1b6pH21vC4edFRGVXBSN2tXNm8)
 * [Sujet deuxième session 2013-2014](https://drive.google.com/uc?export=download&id=0B1b6pH21vC4eM0ZvR3pXUkVibHM)
 * TPs de structure de données de l'année dernière (si ça peut être utile):
-  - [TP n°1](graphes/TP1.html)
-  - [TP n°2](graphes/TP2.html)
-  - [TP n°3](graphes/TP3.html)
+  - [TP n°1](TP1.html)
+  - [TP n°2](TP2.html)
+  - [TP n°3](TP3.html)
 
 ## Explications de bases
 

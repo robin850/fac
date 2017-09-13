@@ -6,7 +6,7 @@ section: l3/s1
 
 ## Documents
 
-* [Correction sujet 2015-2016](fonctionnelle/correction.html) : le sujet est dispo sur le groupe.
+* [Correction sujet 2015-2016](correction.html) : le sujet est dispo sur le groupe.
 
 ## Trucs à savoir
 

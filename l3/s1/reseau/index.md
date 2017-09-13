@@ -6,10 +6,10 @@ section: l3/s1
 
 ## Documents
 
-* [Cours de Réseau CM](reseau/cours.html)
-* [Algorithme de Kruskal](reseau/algo.html)
+* [Cours de Réseau CM](cours.html)
+* [Algorithme de Kruskal](algo.html)
 * [Sujet de réseau 2015-2016](https://drive.google.com/uc?export=download&id=0B1b6pH21vC4eTlRhY0FBQXh3RkE)
-* [Mettre en place un serveur DNS sous Windows Server 2008](reseau/dns.html)
+* [Mettre en place un serveur DNS sous Windows Server 2008](dns.html)
 
 ## Ressources utiles
 

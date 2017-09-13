@@ -121,52 +121,51 @@ code, .highlight {
   clear: both;
 }
 
-.markdown-body a.link {
-  display: block;
-  width: 220px;
-  // margin: 10px 20px 10px 0;
-  float: left;
-  text-align: center;
-  color: #222;
+.markdown-body .grid {
+  width: 100%;
 }
 
-.markdown-body a.link:hover {
+.markdown-body .grid a {
+  display: block;
+  width: 180px;
+  height: 30px;
+  float: left;
+  color: #222;
+  margin: 1em 95px 1em 0;
+  transition: all 0.15s ease-in-out;
+}
+
+.markdown-body .grid a img {
+  height: 30px;
+  width: 30px;
+  display: block;
+  float: left;
+  margin: 0 10px 0 0;
+}
+
+.markdown-body .grid a:nth-child(3n) {
+  margin-right: 0!important;
+}
+
+.markdown-body .grid a:hover {
   color: #337ab7;
 }
 
-.grid {
-  display: flex;
-  margin-bottom: 1em;
-}
-
-.link {
-  margin: auto;
-}
-
-.link img {
-  height: 50px;
-  width: 50px;
-  margin: auto;
-  margin-bottom: 26px;
-}
-
-.link:hover img {
-  text-decoration: none;
-}
-
-.link .icon {
+.markdown-body .grid a .icon {
   display: block;
-  color: #222;
-  font-size: 50px;
-  line-height: 1.5em;
+  float: left;
+  width: 30px;
+  color: #22527b;
+  font-size: 30px;
+  line-height: 1em;
+  margin-right: 10px;
+}
+
+.markdown-body .grid a:hover .icon {
   text-decoration: none!important;
 }
 
-.markdown-body a.link:hover .icon {
-  text-decoration: none!important;
-}
-
-.markdown-body a:not(.link) img {
+.markdown-body a img {
   display: block;
   float: left;
   margin: 5px 10px 0 0;

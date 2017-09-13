@@ -6,7 +6,7 @@ section: prrel
 
 ## Semestre 2
 
-* [Développement limité](maths/developpement-limite.html)
+* [Développement limité](developpement-limite.html)
 
 ## Semestre 1
 

@@ -14,14 +14,14 @@ section: l3/s2
 > valeure. Apparemment, les temps de service / inter-arrivées ont l'air trop
 > grands. En attendant que ça tourne correctement ... :-)
 
-[> Code de la simulation](simulation/main.html)
+[> Code de la simulation](main.html)
 
 ## TD n°1
 
-[> Correction du TD n°1](simulation/td1.html)
+[> Correction du TD n°1](td1.html)
 
 ## TD n°2 - Méthodes de Monte-Carlo
 
-* [Exercice n°1](simulation/exo1-2.html)
-* [Exercice n°2](simulation/exo2-2.html)
-* [Généralisation des deux algorithmes](simulation/algo-gen.html)
+* [Exercice n°1](exo1-2.html)
+* [Exercice n°2](exo2-2.html)
+* [Généralisation des deux algorithmes](algo-gen.html)

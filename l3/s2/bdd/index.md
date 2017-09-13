@@ -13,12 +13,12 @@ section: l3/s2
 
 Condensé des différents PDFs de L2 :
 
-* [Chapitre 1 : Objectif et définition des bases de données](bdd/chapitre1.html)
-* [Chapitre 2 : Le modèle et l'algèbre relationnels](bdd/chapitre2.html)
-* [Chapitre 3 : Les langages relationnels](bdd/chapitre3.html)
-* [Chapitre 4 : La théorie de la normalisation relationnelle](bdd/chapitre4.html)
+* [Chapitre 1 : Objectif et définition des bases de données](chapitre1.html)
+* [Chapitre 2 : Le modèle et l'algèbre relationnels](chapitre2.html)
+* [Chapitre 3 : Les langages relationnels](chapitre3.html)
+* [Chapitre 4 : La théorie de la normalisation relationnelle](chapitre4.html)
 
 ## Autres
 
-* [Trucs utiles](bdd/trucs.html)
-* [Utilisation des triggers](bdd/trigger.html)
+* [Trucs utiles](trucs.html)
+* [Utilisation des triggers](trigger.html)
