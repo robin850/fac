@@ -130,7 +130,7 @@ code, .highlight {
   width: 180px;
   height: 30px;
   float: left;
-  color: #222;
+  color: #444;
   margin: 1em 95px 1em 0;
   transition: all 0.15s ease-in-out;
 }
@@ -155,7 +155,7 @@ code, .highlight {
   display: block;
   float: left;
   width: 30px;
-  color: #22527b;
+  color: #3b87c8;
   font-size: 30px;
   line-height: 1em;
   margin-right: 10px;
