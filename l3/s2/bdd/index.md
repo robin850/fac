@@ -6,7 +6,7 @@ section: l3/s2
 
 ## Documents
 
-* [Sujet de DS - Première session](https://drive.google.com/uc?export=download&id=0B1b6pH21vC4eOFkyRDBFSWFhTFU) &mdash; [**Correction**](bdd/correction.html)
+* [Sujet de DS - Première session](https://drive.google.com/uc?export=download&id=0B1b6pH21vC4eOFkyRDBFSWFhTFU) &mdash; [**Correction**](correction.html)
 * [Sujet de DS - Seconde session](https://drive.google.com/uc?export=download&id=0B1b6pH21vC4eVXcxSTVlSFN2SVE)
 
 ## Cours de L2
