@@ -38,6 +38,11 @@ navs:
       href: simulation/
     - title: Anglais
       href: anglais/
+  m1/s1:
+    - title: Compilation
+      href: compilation/
+    - title: Architecture
+      href: architecture/
 
 # Build settings
 markdown: redcarpet

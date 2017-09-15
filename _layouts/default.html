@@ -9,8 +9,10 @@
       <title>PRREL - Ressources pour le PRREL</title>
     {% elsif page.section contains 'l3' %}
       <title>L3 - Ressources cours licence 3</title>
+    {% elsif page.section contains 'm1' %}
+      <title>M1 - Ressources cours master 1</title>
     {% elsif page.section == 'home' %}
-      <title>L3, PRREL - Ressources et cours</title>
+      <title>M1, L3, PRREL - Ressources et cours</title>
     {% endif %}
 
     <link href="/css/style.css" rel="stylesheet">
@@ -40,8 +42,10 @@
           <h3>PRREL</h3>
         {% elsif page.section contains 'l3' %}
           <h3>L3</h3>
+        {% elsif page.section contains 'm1' %}
+          <h3>M1</h3>
         {% else %}
-          <h3>L3, PRREL - Ressources et cours</h3>
+          <h3>M1, L3, PRREL - Ressources et cours</h3>
         {% endif %}
       </div>
 

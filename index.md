@@ -3,6 +3,33 @@ layout: default
 section: home
 ---
 
+# Master 1
+
+#### Premier semestre
+
+<div class="grid">
+  <a href="m1/s1/compilation/">
+    <img src="icons/compilation.svg">
+    Compilation
+  </a>
+
+  <a href="m1/s1/architecture">
+    <img src="icons/archi.svg">
+    Architecture
+  </a>
+
+  <div class="clearer"></div>
+</div>
+
+##### Clés Moodle
+
+| Cours                                     | Clé                        |
+|-------------------------------------------|:--------------------------:|
+| UML                                       | M1-UML-12XY8               |
+| IA: Fondements logiques                   | M1INFO                     |
+| Prog. et archi. des systèmes multi-cores  | Pas de clé + ancien Moodle |
+
+
 # Licence 3
 
 #### Premier semestre
